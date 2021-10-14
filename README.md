@@ -1,5 +1,6 @@
 # RestaurantPage
 Assignment from the [The Odin Project](https://www.theodinproject.com/)
+[Live Demo](https://hobbyist101.github.io/RestaurantPage/)
 
 # Resource
 ## All Rights Go To The Original Creator
